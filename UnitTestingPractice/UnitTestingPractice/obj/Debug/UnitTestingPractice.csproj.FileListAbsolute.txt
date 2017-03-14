@@ -1,0 +1,6 @@
+c:\users\dilan\documents\visual studio 2015\Projects\UnitTestingPractice\UnitTestingPractice\bin\Debug\UnitTestingPractice.exe.config
+c:\users\dilan\documents\visual studio 2015\Projects\UnitTestingPractice\UnitTestingPractice\bin\Debug\UnitTestingPractice.exe
+c:\users\dilan\documents\visual studio 2015\Projects\UnitTestingPractice\UnitTestingPractice\bin\Debug\UnitTestingPractice.pdb
+c:\users\dilan\documents\visual studio 2015\Projects\UnitTestingPractice\UnitTestingPractice\obj\Debug\UnitTestingPractice.csprojResolveAssemblyReference.cache
+c:\users\dilan\documents\visual studio 2015\Projects\UnitTestingPractice\UnitTestingPractice\obj\Debug\UnitTestingPractice.exe
+c:\users\dilan\documents\visual studio 2015\Projects\UnitTestingPractice\UnitTestingPractice\obj\Debug\UnitTestingPractice.pdb
