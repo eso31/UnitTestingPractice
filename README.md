@@ -3,7 +3,6 @@
 
 ### Implement the hash defined by the following pseudo-code and validate it by checking that the hash for  “leepadg” is 680131659347
 
-# code block
     function Hash( s : string) : int64
     begin
 
